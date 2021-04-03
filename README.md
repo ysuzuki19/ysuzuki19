@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Thank you for visiting my page.
+
+I like Ramen, Manga, C++, Python, and React.
+
 <!--
 **ysuzuki19/ysuzuki19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
