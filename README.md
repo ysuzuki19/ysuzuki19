@@ -2,6 +2,8 @@
 
 Thank you for visiting my page.
 
+I live in Japan🥷
+
 I like Ramen, Manga, C++, Python, and React.
 
 <!--
