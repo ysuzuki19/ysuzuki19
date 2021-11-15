@@ -6,7 +6,8 @@ I live in Japan🥷
 
 I like Ramen, Manga, C++, Python, and React.
 
-[![ysuzuki19's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysuzuki19)](https://github.com/ysuzuki19)
+[![ysuzuki19's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysuzuki19)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
