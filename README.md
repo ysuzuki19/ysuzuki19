@@ -6,6 +6,9 @@ I live in Japan🥷
 
 I like Ramen, Manga, C++, Python, and React.
 
+[![ysuzuki19's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysuzuki19)](https://github.com/ysuzuki19)
+
+
 <!--
 **ysuzuki19/ysuzuki19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
