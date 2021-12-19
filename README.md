@@ -4,7 +4,7 @@ Thank you for visiting my page.
 
 I live in Japan🥷
 
-I like Ramen, Manga, C++, Python, and React.
+I like Ramen, Manga, C++, Python, React, TypeScript, Next.js and Nest.js.
 
 [![ysuzuki19's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysuzuki19)](https://github.com/anuraghazra/github-readme-stats)
 
