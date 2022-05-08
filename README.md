@@ -6,6 +6,8 @@ I live in Japan🥷
 
 I like Ramen, Manga, C++, Python, Go, React, TypeScript, Next.js and Nest.js.
 
+[npm](https://www.npmjs.com/~ysuzuki19)
+
 [![ysuzuki19's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysuzuki19)](https://github.com/anuraghazra/github-readme-stats)
 
 
