@@ -4,7 +4,7 @@ Thank you for visiting my page.
 
 I live in Japan🥷
 
-I like Ramen, Manga, C++, Python, Go, React, TypeScript, Next.js and Nest.js.
+I like Ramen, Manga, C++, Rust, React, TypeScript, Next.js and Nest.js.
 
 [npm](https://www.npmjs.com/~ysuzuki19)
 
