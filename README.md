@@ -4,15 +4,19 @@ I live in Japan🥷
 
 I like Ramen, Manga, Rust,TypeScript,React, C++, NestJS and Next.js .
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysuzuki19&theme=github_dark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysuzuki19&theme=github_dark" width="100%" /> 
 
-|                                                                                                                                            |                                                                                                                         |
-| :----------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| ![top-languages-by-repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysuzuki19&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysuzuki19&theme=github_dark) |
+<div float="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysuzuki19&theme=github_dark" width="49%" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysuzuki19&theme=github_dark" width="49%" />
+</div>
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysuzuki19&theme=github_dark) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ysuzuki19&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=ysuzuki19&theme=darkhub&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" />
+</a>
+
 
 <!--
 **ysuzuki19/ysuzuki19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,11 +32,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<style>
-  table, td, th {
-    border: none!important;
-    padding: 0!important;
-    margin: 0!important;
-  }
-</style>
