@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-Thank you for visiting my page.
-
 I live in Japan🥷
 
-I like Ramen, Manga, C++, Rust, React, TypeScript, Next.js and Nest.js.
+I like Ramen, Manga, Rust,TypeScript,React, C++, NestJS and Next.js .
 
-[npm](https://www.npmjs.com/~ysuzuki19)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysuzuki19&theme=github_dark)
 
-[![ysuzuki19's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysuzuki19)](https://github.com/anuraghazra/github-readme-stats)
+|                                                                                                                                            |                                                                                                                         |
+| :----------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+| ![top-languages-by-repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysuzuki19&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysuzuki19&theme=github_dark) |
 
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysuzuki19&theme=github_dark) -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ysuzuki19&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **ysuzuki19/ysuzuki19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +28,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<style>
+  table, td, th {
+    border: none!important;
+    padding: 0!important;
+    margin: 0!important;
+  }
+</style>
